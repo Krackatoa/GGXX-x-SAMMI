@@ -1,4 +1,4 @@
-# Guilty Gear Xrd x SAMMI
+# Guilty Gear XX Accent Core +R x SAMMI
 
 A Bridge Extension for [SAMMI](https://sammi.solutions). Take interactions in game and turn them into stream gimmicks!
 
@@ -6,7 +6,7 @@ A Bridge Extension for [SAMMI](https://sammi.solutions). Take interactions in ga
 
 This extension allows you to receive data from [TheLettuceClub's ACPR Live Content Mod](https://github.com/TheLettuceClub/GGXXACPR_Framework/releases) in the form of Extension Triggers inside SAMMI. A collection of example buttons have been provided with some experimental functionality to get you started.
 
-![image](https://github.com/user-attachments/assets/c9cea94d-96bb-44ee-b8aa-9d4483e670a4)
+![image](https://github.com/user-attachments/assets/1d0db460-9b5c-4290-98d0-3eeec3f4666e)
 
 ## Quick Start Guide
 
@@ -28,8 +28,8 @@ Step 6 (Optional): Copy the text found in the Example Deck text file to your cli
 
 The following Extension Triggers are available for use. Add them to buttons via a button's Trigger menu. They all contain extremely relevant data within that can be accessed via the `Trigger Pull Data` command.
 
-![image](https://github.com/user-attachments/assets/d7188aa0-a8bd-4deb-ba54-eefd9f8d1fba)
-![image](https://github.com/user-attachments/assets/264e2472-8218-4c34-95b8-6a53cf167d44)
+![image](https://github.com/user-attachments/assets/34395efd-6aea-4121-9f25-9a759efc57e3)
+![image](https://github.com/user-attachments/assets/3bade3e1-5989-4002-a941-5af0860be8ef)
 
 | Extension Trigger | Description |
 | --- | --- |
